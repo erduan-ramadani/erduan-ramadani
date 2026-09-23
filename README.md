@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Erduan 👋
 
-<!--
-**erduan-ramadani/erduan-ramadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a strong background in Android and Kotlin, currently focusing on Java backend development with Spring Boot.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Spring Security
+- JUnit & Mockito
+
+## Additional Experience
+
+- Kotlin
+- Android
+- Jetpack Compose
+- Kotlin Multiplatform
+- Clean Architecture
+- CI/CD
+
+## Featured Projects
+
+### Foodify Backend
+Java Spring Boot backend with PostgreSQL, JWT authentication, validation, pagination and automated tests.
+
+### Foodify
+AI-powered nutrition tracking app built with Kotlin Multiplatform and Jetpack Compose.
+
+### Chirp Backend
+Learning project for practicing Kotlin, Spring Boot, JWT, Redis, RabbitMQ and WebSockets.
