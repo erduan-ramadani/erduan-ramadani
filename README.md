@@ -1,6 +1,6 @@
 # Hi, I'm Erduan 👋
 
-Software Developer with a strong background in Android and Kotlin, currently focusing on Java backend development with Spring Boot.
+Software Developer with a strong background in Java, Android and Kotlin, currently focusing on Java backend development with Spring Boot.
 
 ## Current Focus
 
