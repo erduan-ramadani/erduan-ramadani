@@ -3,9 +3,12 @@
 
 **Software Developer | Kotlin & Android | Java & Spring Boot**
 
-I'm a software developer with professional experience since **2011**, specializing in Android development and working with modern backend technologies.
+I'm a software developer with experience in Android app development since **2011**, specializing in Kotlin, Java, and modern Android technologies.
 
 I've contributed to widely used applications such as **Botim** and **wetter.com**, and independently developed and published **Foodify**, an AI-powered Android application available on Google Play.
+
+I also develop backend applications using **Java, Kotlin, and Spring Boot**, with a focus on clean architecture, secure REST APIs, and automated testing.
+
 
 I enjoy building reliable, scalable, and maintainable software — from intuitive mobile applications to secure backend services.
 
