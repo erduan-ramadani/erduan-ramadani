@@ -3,13 +3,13 @@
 
 **Software Developer | Kotlin & Android | Java & Spring Boot**
 
-I've been developing Android applications since **2011**, working with Java, Kotlin, Jetpack Compose, and modern Android architectures.
+I've been developing Android applications since **2011**, working with Java, Kotlin, Jetpack Compose and modern Android architectures.
 
-I've contributed to widely used applications such as **Botim** and **wetter.com**, and independently developed and published **Foodify**, an AI-powered nutrition tracking app available on Google Play.
+I've contributed to widely used applications such as **Botim** and **wetter.com** and independently developed and published **Foodify**, an AI-powered nutrition tracking app available on Google Play.
 
-Beyond Android, I build backend applications with **Java, Kotlin, and Spring Boot**, applying REST API design, database persistence, security, and automated testing in projects such as **Foodify Backend** and **Chirp Backend**.
+Beyond Android, I build backend applications with **Java, Kotlin, and Spring Boot**, applying REST API design, database persistence, security and automated testing in projects such as **Foodify Backend** and **Chirp Backend**.
 
-My work combines hands-on mobile development experience with practical backend engineering, clean architecture, and a strong focus on software quality.
+My work combines hands-on mobile development experience with practical backend engineering, clean architecture and a strong focus on software quality.
 
 
 ## Technical Focus
